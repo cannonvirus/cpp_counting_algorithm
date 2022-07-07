@@ -1,0 +1,10 @@
+{
+    "name" : "upbringing4",
+    "type" : "room",
+    "xmin" : 300.0,
+    "ymin" : 300.0,
+    "width" : 200.0,
+    "height" : 0.0,
+    "direct_in" : "up",
+    "direct_out" : "down"
+}

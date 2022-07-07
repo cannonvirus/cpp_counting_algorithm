@@ -1,0 +1,10 @@
+{
+    "name" : "entrance1",
+    "type" : "hallway",
+    "xmin" : 600.0,
+    "ymin" : 300.0,
+    "width" : 0.0,
+    "height" : 400.0,
+    "direct_in" : "right",
+    "direct_out" : "left"
+}
